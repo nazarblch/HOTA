@@ -1,0 +1,4 @@
+*.pyc
+*.pdf
+.DS_Store
+run
